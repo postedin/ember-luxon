@@ -1,11 +1,11 @@
 {
-  "name": "ember-luxon",
-  "version": "1.4.1",
+  "name": "@postedin/ember-luxon",
+  "version": "1.5.0",
   "description": "Adds luxon to your Ember application",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "https://github.com/willrax/ember-luxon",
+  "repository": "https://github.com/postedin/ember-luxon",
   "license": "MIT",
   "author": "",
   "directories": {
