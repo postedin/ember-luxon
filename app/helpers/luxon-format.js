@@ -1,1 +1,1 @@
-export { default } from 'ember-luxon/helpers/luxon-format';
+export { default } from '@postedin/ember-luxon/helpers/luxon-format';

@@ -1,1 +1,1 @@
-export { default } from 'ember-luxon/helpers/luxon-is-between';
+export { default } from '@postedin/ember-luxon/helpers/luxon-is-between';
